@@ -27,7 +27,7 @@ Currently exploring **DeFi UX, onchain products, and consumer products**.
 
 ## 🌐 Connect
 
-* 💼 LinkedIn: [https://linkedin.com/in/arpita-ganatra-in-ethindia-ab577b146](https://linkedin.com/in/arpita-ganatra-in-ethindia-ab577b146)
-* 🐦 Twitter: [https://twitter.com/GanatraArpita](https://twitter.com/GanatraArpita)
+* 💼 [LinkedIn](https://linkedin.com/in/arpita-ganatra)
+* 🐦 [X](https://x.com/ArpitaGanatra)
 
 
