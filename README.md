@@ -1,19 +1,33 @@
-### Heyo 👋
 
 
-# 💫 About Me:
-gm🌈<br>I turn design into code<br>🛠 Experimenting at: [Cubik](https://cubik.so).<br>👯‍♀️ Communities: developer dao, surge women, learnweb3 dao
+gm 🌈
+
+Frontend-focused full-stack engineer building clean, performant, and intuitive web experiences.
+Currently exploring **DeFi UX, onchain products, and consumer products**.
+
+👯‍♀️ Member: Superteam
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arpita-ganatra-in-ethindia-ab577b146) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/GanatraArpita) 
+
+## 🏆 Achievements
+
+* 🥇 Solana Seeker Hackathon Winner — [Plutus](https://x.com/be_plutus)
+* 🥇 Blinks Hackathon Winner — [SolCards](https://github.com/your-username/send](https://github.com/ArpitaGanatra/sol-cards))
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=ArpitaGanatra&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitaGanatra&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=ArpitaGanatra&icon=1&color=0)](https://visitcount.itsvg.in)
+## 🛠️ Tech Stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+* **Frontend:**  React Native, Next.js, React
+* **Backend:** Node.js
+* **Web3:** Solana, Anchor, web3.js, Wallet integrations, viem
+* **Other:** Zustand, Tanstack Query, Charts, privy
+
+
+
+## 🌐 Connect
+
+* 💼 LinkedIn: [https://linkedin.com/in/arpita-ganatra-in-ethindia-ab577b146](https://linkedin.com/in/arpita-ganatra-in-ethindia-ab577b146)
+* 🐦 Twitter: [https://twitter.com/GanatraArpita](https://twitter.com/GanatraArpita)
+
+
